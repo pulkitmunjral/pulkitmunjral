@@ -2,7 +2,7 @@
 🔭 I’m currently working on building production scale web application with Django, sql, html.<br>
 👯🤝 I’m looking to collaborate and contribute to intersigne web application projets.<br>
 🌱 I’m currently learning to creating rest api’s to make frontend and backend talk seamlessly.<br>
-⚡ Fun fact My destiny take me to an automation job at Airtel but i am fighting back to create my own destiny by learning and growing by myself.<br>
+⚡ Fun fact My destiny take me to an automation job and i am enjoying create my own destiny by learning and growing by myself.<br>
 💬 Ask me for any help.<br>
 
 
