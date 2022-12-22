@@ -1,5 +1,9 @@
 # 💫 About Me:
-I’m currently working on building production scale web application with Django, sql, html but the learning should never stop so<br>I'm learning to creating rest api’s to make frontend and backend talk seamlessly.<br><br>Open to collaborate and contribute to intersigne web application projets.<br><br>Fun Fact: <br>My destiny take me to an automation job at Airtel but i am fighting back to create my own destiny by learning and growing by myself.
+🔭 I’m currently working on building production scale web application with Django, sql, html.
+👯🤝 I’m looking to collaborate and contribute to intersigne web application projets.
+🌱 I’m currently learning to creating rest api’s to make frontend and backend talk seamlessly.
+⚡ Fun fact My destiny take me to an automation job at Airtel but i am fighting back to create my own destiny by learning and growing by myself.
+💬 Ask me for any help. 
 
 
 ## 🌐 Socials:
