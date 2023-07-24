@@ -4,7 +4,7 @@
 🌱 I’m currently learning to creating rest api’s to make frontend and backend talk seamlessly.<br>
 ⚡ Fun fact My destiny take me to an automation job and i am enjoying create my own destiny by learning and growing by myself.<br>
 💬 Ask me for any help.<br>
-[Buy me a Beer 🍻](https://www.buymeacoffee.com/pulkitmunjral)
+[Buy me a Coffe ☕️](https://www.buymeacoffee.com/pulkitmunjral)
 
 
 ## 🌐 Socials:
